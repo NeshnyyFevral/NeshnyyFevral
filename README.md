@@ -1,2 +1,3 @@
 <img src="bg.png">
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeshnyyFevral)](https://github.com/NeshnyyFevral/github-readme-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeshnyyFevral&bg_color=000000&text_color=eeeeee)](https://github.com/NeshnyyFevral/github-readme-stats)
